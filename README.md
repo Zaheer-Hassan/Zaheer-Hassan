@@ -49,10 +49,9 @@ Full-Stack Dev      :  End-to-end delivery from database design to production de
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zaheer-Hassan&theme=github_dark" width="100%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zaheer-Hassan&theme=github_dark" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zaheer-Hassan&theme=github_dark&utcOffset=5" width="48%" />
+| 50+ | 500+ | 5+ | 10+ |
+|:---:|:----:|:--:|:---:|
+| Private Repositories | Commits | Years Coding | Production Systems |
 
 </div>
 
